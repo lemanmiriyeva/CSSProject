@@ -110,6 +110,7 @@ p{
 .box1{
     width: 500px;
     height: 500px;
+    
     background-color: rgb(3, 27, 54);
     display: flex;
     align-items: center;
